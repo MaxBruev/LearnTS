@@ -70,7 +70,7 @@ var newQuestionMark = new ArrQuestionMark();
 var newGrilleMark = new ArrGrilleMark();
 var newPositiveCounter = new PositiveCounter();
 var newBigSumNumeral = new BigSumNumeral();
-// console.log(newQuestionMark.filterArrRandom(-25, 25, 10));
-// console.log(newGrilleMark.filterArrRandom(5, 50, 8));
-// console.log(newPositiveCounter.counter(-5,5,5))
+console.log(newQuestionMark.filterArrRandom(-25, 25, 10));
+console.log(newGrilleMark.filterArrRandom(5, 50, 8));
+console.log(newPositiveCounter.counter(-5,5,5))
 console.log(newBigSumNumeral.bigSum(100, 999, 8));
